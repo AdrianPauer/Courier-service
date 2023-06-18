@@ -1,0 +1,5 @@
+D:/skuska/cmake-build-debug/CMakeFiles/tests.dir
+D:/skuska/cmake-build-debug/CMakeFiles/gtest.dir
+D:/skuska/cmake-build-debug/CMakeFiles/exercise9.dir
+D:/skuska/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/skuska/cmake-build-debug/CMakeFiles/rebuild_cache.dir
